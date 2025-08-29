@@ -15,8 +15,19 @@ A full-stack project for browsing and exploring exercises, with a React front en
 ---
 
 ## Project Structure
-
-<pre lang="markdown"> ```text ├─ react/ # Front end (React SPA) │ ├─ src/ # Components, pages, hooks, utils │ ├─ public/ │ ├─ package.json │ └─ ... ├─ rest-API/ # Back end (REST API service) │ ├─ src/ or app/ # Server source code │ ├─ package.json OR # If Node/Express │ ├─ requirements.txt # If Python/Flask/FastAPI │ └─ ... ├─ README.md # This file └─ *.zip # Optional: exported bundles (can be deleted) ``` </pre>
+<pre lang ="markdown"> ```text
+├─ react/ # Front end (React SPA)
+│ ├─ src/ # Components, pages, hooks, utils
+│ ├─ public/
+│ ├─ package.json
+│ └─ ...
+├─ rest-API/ # Back end (REST API service)
+│ ├─ src/ or app/ # Server source code
+│ ├─ package.json OR # If Node/Express
+│ ├─ requirements.txt # If Python/Flask/FastAPI
+│ └─ ...
+├─ README.md # This file
+└─ *.zip # Optional: exported bundles```</pre>
 
 ### Prerequisites
 
