@@ -16,7 +16,6 @@ A full-stack project for browsing and exploring exercises, with a React front en
 
 ## Project Structure
 
-.
 ├─ react/ # Front end (React SPA)
 │ ├─ src/ # Components, pages, hooks, utils
 │ ├─ public/
@@ -28,7 +27,7 @@ A full-stack project for browsing and exploring exercises, with a React front en
 │ ├─ requirements.txt # If Python/Flask/FastAPI
 │ └─ ...
 ├─ README.md # This file
-└─ *.zip # Optional: exported bundles
+└─ *.zip # Optional: exported bundles (can be deleted)
 
 ### Prerequisites
 
